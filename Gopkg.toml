@@ -1,0 +1,5 @@
+required = [
+    "github.com/op/go-logging",
+    "github.com/jmoiron/sqlx",
+    "github.com/go-sql-driver/mysql",
+]
